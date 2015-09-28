@@ -1,0 +1,58 @@
+To: cygwin-announce@cygwin.com
+Subject: Updated: mp3info 0.8.5.1-1 -- An MP3 ID3 1.x info viewer and tag editor
+--text follows this line--
+
+PACKAGE DESCRIPTION
+===================
+
+Homepage: https://packages.debian.org/unstable/mp3info
+License : GPL-2
+
+Program has an interactive mode (using curses) and a command line
+mode. MP3Info can display ID3 tag information as well as various
+technical aspects of an MP3 file including playing time, bit-rate,
+sampling frequency and other kattributes in a pre-defined or
+user-specifiable output format.
+
+CHANGES SINCE LAST RELEASE
+==========================
+
+Initial release.
+
+INSTALL OR UPGRADE NOTES
+========================
+
+Standard install.
+
+CYGWIN INSTALLATION INFORMATION
+===============================
+
+To install this package, click on the "Install Cygwin now" link on the
+<http://cygwin.com/> web page. This downloads setup.exe to your
+system. Then, run setup and answer all of the questions. You'll find
+the package listed in the "All" category. After installation, read the
+documentation at directories:
+
+    /usr/share/doc/<package>/*
+    /usr/share/doc/Cygwin/<package-version>.README
+
+If you have questions or comments, please send them to the Cygwin
+mailing list at <cygwin(at)cygwin.com>.
+
+CYGWIN-ANNOUNCE UNSUBSCRIBE INFO
+================================
+
+This message has been sent to cygwin-announce list.
+
+If you want to unsubscribe from the mailing list, look at the
+"List-Unsubscribe: " tag in the email header of this message. Send
+email to the address specified there. It will be in the format:
+
+    cygwin-announce-unsubscribe-you=yourdomain.com(at)cygwin.com
+
+More information on unsubscribing can be found:
+
+    http://sources.redhat.com/lists.html#unsubscribe-simple
+
+Please read *all* of the information on unsubscribing that is available
+starting at the above URL.
